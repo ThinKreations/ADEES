@@ -85,13 +85,13 @@
                             Extraordinario
                             </td>
                             <td>
-                                Usuario01    <button type="button">Borrar</button>
+                                Usuario01ㅤ<button type="button">Ver</button><button type="button">Borrar</button>
                             </td>
                             <td>
-                                Usuario10    <button type="button">Borrar</button>
+                                Usuario10ㅤ<button type="button">Ver</button><button type="button">Borrar</button>
                             </td>
                             <td>
-                                Usuario11    <button type="button">Borrar</button>
+                                Usuario11ㅤ<button type="button">Ver</button><button type="button">Borrar</button>
                             </td>
                         </tr>
                     </table>
