@@ -24,7 +24,7 @@
                     </font>
                 </div>
                 <div class="menu_tipo">
-                    <font size="6"><p><a href="signin0.html" class="link">ㅤVolverㅤ</a></p></font>
+                    <font size="6"><p><a href="signin0.jsp" class="link">ㅤVolverㅤ</a></p></font>
                     <form method="POST" action="GuardarPaciente" class="form_1" id="sign_01">
                         <center>
                             <table class="sign">
