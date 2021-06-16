@@ -96,31 +96,31 @@
                                 <iframe width="60%" height="60%" src="https://www.youtube.com/embed/QWmpKM-SNFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
                                 <br><br>
                                 4. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/NE-Pli88xYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 5. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/1dwM7tGj9fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 6. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/0k3W4Wlw8qY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 7. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/eIvhKTWPCME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 8. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/I9tfIW7mSzo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 9. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/o55-UFO4tPQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 10. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/watch?v=SaII19Id50Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 11. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/watch?v=wbwPzj6R4dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                                 12. Nombre<br>
-                                
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/watch?v=rb5MCyK-Hjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <br><br>
                             </td>
                         </tr>
