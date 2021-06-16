@@ -24,7 +24,7 @@
                         <font size="5"><h1>A D E E S</h1></font>
                         <a href="news_00.jsp"><h3>NOTICIAS</h3></a>
                         <a href="_00.jsp"><h3>USUARIOS</h3></a>                        
-                        <a href="graficos_00.jsp"><h3>GRÁFICOS</h3></a>
+                        
                         <a href="login.jsp" onclick="'Aquí va la funcion de registrar la hora de cierre, y eso pa que no pueda volver a entrar mas que logeandose de nuevo'"><h3>CERRAR SESIÓN</h3></a>
                     </nav>
                 </font>  
