@@ -71,11 +71,6 @@
                                     <h2>Ejercicios</h2>
                                                        
                             </td>
-                            <td>
-                                
-                                    <h2>Meditaciones</h2>
-                                
-                            </td>
                         <tr>
                             <td>
                                 <center>
@@ -87,13 +82,46 @@
                                 
                             </td>
                             
+                            
+                        </tr>
+                        <tr>
                             <td>
-                                <center>
-                                    <div class="td_exp">
-                                        <h2>Y aquí los mentales</h2>
-                                    </div>
-                                </center>
+                                1. Nombre<br>
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/D9QVJHxz3rI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <br><br>
+                                2. Nombre<br>
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/9HfZgqfsP3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <br><br>
+                                3. Nombre<br>
+                                <iframe width="60%" height="60%" src="https://www.youtube.com/embed/QWmpKM-SNFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>|
+                                <br><br>
+                                4. Nombre<br>
                                 
+                                <br><br>
+                                5. Nombre<br>
+                                
+                                <br><br>
+                                6. Nombre<br>
+                                
+                                <br><br>
+                                7. Nombre<br>
+                                
+                                <br><br>
+                                8. Nombre<br>
+                                
+                                <br><br>
+                                9. Nombre<br>
+                                
+                                <br><br>
+                                10. Nombre<br>
+                                
+                                <br><br>
+                                11. Nombre<br>
+                                
+                                <br><br>
+                                12. Nombre<br>
+                                
+                                <br><br>
                             </td>
                         </tr>
                         </table>
