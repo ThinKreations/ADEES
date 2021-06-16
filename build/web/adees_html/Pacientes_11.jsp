@@ -55,17 +55,8 @@
 
                     
                 </script>
-                <br>
-             
-                <center>
-                    <div class="seccion">
-                        <p>ㅤ</p>
-                        <font size="6.5"><h1 class="titulo">Pacientes</h1></font>
-                        <br>Aqui irá una lista con los nombres de usuario de los usuarios que trata, así como la opcion de ver su perfil (Y avance) y modificar tratamiento
-                        
-                    </div>
-                    
-                </center>
+                
+                
                 
             </div>
         </font>

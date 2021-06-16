@@ -60,7 +60,17 @@
                     <div class="seccion">
                         <p>ㅤ</p>
                         <font size="6.5"><h1 class="titulo">Noticias</h1></font>
-                                               
+                        <div class="new">
+                            <h2 id="new_titulo">Título</h2>
+                            <img id="">
+                            <p id="new_text">Resúmen
+                            <br>Estos div de cada noticia ya tienen las ids y todo para generar uno por cada noticia existente, cada noticia tambien tendrá un id para así imprimir la info correcta
+                            </p>
+                            <p>Fuente: <a href="" id="new_fuente">XD</a></p>
+                            <p>Autor: <a href="" id="new_doc">Ps yo</a></p>
+                            <a href="mailto:adeesbylsabes@gmail.com?subject=ADEES_Contacto: " target="_blank"><button type="button" class="btnReport" name="reportar_11" onclick="">Reportar</button></a>
+                        </div>
+                        
                         <form method="post">
                             <h1>Agregar noticia</h1>
                             <p>Título:</p>
@@ -76,16 +86,6 @@
                             
                         </form>
                         
-                        <div class="new">
-                            <h2 id="new_titulo">Título</h2>
-                            <img id="">
-                            <p id="new_text">Resúmen
-                            <br>Estos div de cada noticia ya tienen las ids y todo para generar uno por cada noticia existente, cada noticia tambien tendrá un id para así imprimir la info correcta
-                            </p>
-                            <p>Fuente: <a href="" id="new_fuente">XD</a></p>
-                            <p>Autor: <a href="" id="new_doc">Ps yo</a></p>
-                            <a href="mailto:adeesbylsabes@gmail.com?subject=ADEES_Contacto: " target="_blank"><button type="button" class="btnReport" name="reportar_11" onclick="">Reportar</button></a>
-                        </div>
                     </div>
                     
                 </center>

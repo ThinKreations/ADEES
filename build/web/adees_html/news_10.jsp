@@ -22,8 +22,10 @@
                 <font color="#ffffff">
                     <nav class="lateral">
                         <font size="5"><h1>A D E E S</h1></font>
-                        <a href="news_10.jsp"><h3>NOTICIAS</h3></a>
-                        <a href="perfil_10.jsp"><h3>PERFIL</h3></a>
+                        <a><h3>NOTICIAS</h3></a>
+                        <a href="explora_10.jsp"><h3>EXPLORAR</h3></a>
+                        <a href="perfil_10.jsp"><h3>PERFIL (TUTORADO)</h3></a>
+                        <a href="profesionales_10.jsp"><h3>PROFESIONALES</h3></a>
                         <a href="login.jsp" onclick="'Aquí va la funcion de registrar la hora de cierre, y eso pa que no pueda volver a entrar mas que logeandose de nuevo'"><h3>CERRAR SESIÓN</h3></a>
                     </nav>
                 </font>  

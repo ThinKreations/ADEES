@@ -20,7 +20,7 @@
             <div class="ADEEScontainer_0">
                 <div class="ADEEScontainer_1">
                     <font size="7" color="#ffffff">
-                        <a href="../index.jsp"><h1>ADEES</h1></a>
+                        <a href="../index.html"><h1>ADEES</h1></a>
                     </font>
                 </div>
                     <br>

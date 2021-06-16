@@ -65,8 +65,8 @@
                         <p>ㅤ</p>
                         <font size="6.5"><h1 class="titulo">Profesionales</h1></font>
                         
-                        <h3>Si ya cuentas con el apoyo de un Profesional registrado en ADEES, por favor, ingresa su ID: </h3>
-                        <input type="number" class="f_input_1" id="" placeholder="ID de Profesional"><input type="submit"><br>
+                        <h3>Si ya cuentas con el apoyo de un Profesional registrado en ADEES, por favor, ingresa su ID:</h3>
+                        <input type="number" class="f_input_1" id="" placeholder="ID de Profesional"><br>
                         
                         <h2>Lista de profesionales</h2>
                         

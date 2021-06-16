@@ -24,30 +24,24 @@
                     </font>
                 </div>
                 <div class="menu_tipo">
-                    <font size="6"><p><a href="signin0.jsp" class="link">ㅤVolverㅤ</a></p></font>
-                    <form action="" class="form_1" id="sign_01">
+                    <font size="6"><p><a href="signin0.html" class="link">ㅤVolverㅤ</a></p></font>
+                    <form method="POST" action="GuardarPaciente" class="form_1" id="sign_01">
                         <center>
                             <table class="sign">
                                 <td>
                                 <h1>Registrate - Paciente</h1>
                                 <br>
                                 <h2>Nombre:</h2>
-                                <input type="text" class="f_input_1" id="nombre_01" placeholder="Nombre">
-                                
+                                <input type="text" class="f_input_1" name="nombre_01" id="nombre_01" placeholder="Nombre">
                                 <br><br>
                                 <h2>Correo Electrónico:</h2>
-                                De preferencia <b>GMAIL</b>
-                                <br><br>
-                                <input type="text" class="f_input_1" id="correo_01" placeholder="Email">
-                                <br><br>
-                                <h2>Nombre de Usuario:</h2>
-                                <input type="text" class="f_input_1" id="usuario_01" placeholder="Usuario">
+                                <input type="text" class="f_input_1" name="correo_01" id="correo_01" placeholder="Email">
                                 <br><br>
                                 <h2>Contraseña:</h2>
-                                <input type="password" class="f_input_1" id="pass_01" placeholder="Contraseña">
+                                <input type="password" class="f_input_1" name="pass_01" id="pass_01" placeholder="Contraseña">
                                 <br><br>
                                 <h2>Confirmar Contraseña:</h2>
-                                <input type="password" class="f_input_1" id="confirmar_01" placeholder="Confirmar">
+                                <input type="password" class="f_input_1" name="pass_01" id="confirmar_01" placeholder="Confirmar">
                                 <br><br>
                                 <button type="button" class="f_button_inicio" onclick="window.location.href='login.jsp'"><font color="#ffffff"><h2>ㅤRegistrarㅤ</h2></font></button>
                                 <br>Tu información no se verá comprometida en ningún momento, pues sólo se usará de ser necesario. :)

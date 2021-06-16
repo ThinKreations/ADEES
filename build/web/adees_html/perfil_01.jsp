@@ -74,7 +74,6 @@
                                 <h3 id="n_Tutor">Tutor a cargo: +Nombre+</h3></td>
                         </table>
                         <font size="4"><h1 class="titulo">Mi avance</h1></font>
-                        <p>Modelo de Python</p><br>
                     </div>
                     
                 </center>
