@@ -424,3 +424,16 @@ body{
         text-decoration: none;
         color:#ffffff;
     }
+    
+.tabUsu{
+    text-align: center;
+    width: 75vw;
+    min-width: max-content;
+}
+
+    .tabUsu td{
+        width: 25%;
+        align-items:flex-start;
+    }
+    
+    
